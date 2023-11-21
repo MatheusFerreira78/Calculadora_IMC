@@ -27,7 +27,7 @@ tenho algum conhecimento em front-end oque me ajudou bastante a entender alguns 
 - Melhorar estilização do app
 
 ## Author
-Matheus Vinicius Ferreira e Silva (follow me on [LinkedIn](www.linkedin.com/in/matheus-vinicius-ferreira-e-silva-518b061b0))
+Matheus Vinicius Ferreira e Silva (follow me on [Linkedin](www.linkedin.com/matheus-vinicius-ferreira-e-silva-518b061b0))
 
 ## License
 ```
