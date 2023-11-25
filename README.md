@@ -33,7 +33,7 @@ Matheus Vinicius Ferreira e Silva (follow me on [Linkedin](https://www.linkedin.
 ```
 The MIT License (MIT)
 
-Copyright (c) 2021 Matheus Vinicius Ferreira e Silva
+Copyright (c) 2023 Matheus Vinicius Ferreira e Silva
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
